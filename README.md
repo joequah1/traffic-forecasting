@@ -39,8 +39,7 @@ pip install pandas numpy statsmodels
 **3. Run the Application:**
 
 ```bash
-python traffic_forecast.py
-Run and Test
+python index.py
 ```
 
 Follow the instructions in the application to input your historical traffic data and configure the ARIMA model parameters. Once configured, the application will generate forecasts for future traffic congestion levels based on the provided data.
